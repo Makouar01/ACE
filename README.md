@@ -1,9 +1,6 @@
 # ACE
 ## Démo Vidéo des Tests JSON et XML
 
-[Regarder la démo vidéo des tests JSON et XML](https://lien-vers-la-video.com)
+[Regarder la démo vidéo des tests JSON et XML](https://drive.google.com/file/d/1b-L0HD1jsnETqtLfaSiLSSd275CW5WRH/view?usp=sharing)
 
-### Exemples de données
 
-- **JSON** : Voir le fichier [`exemple.json`](./exemple.json)
-- **XML** : Voir le fichier [`exemple.xml`](./exemple.xml)
